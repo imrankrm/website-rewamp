@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48f2c220-bf11-411f-b132-130a43b693db" name="Default" comment="">
+<<<<<<< HEAD
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/mobile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/tablet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/Framework.png" afterPath="$PROJECT_DIR$/assets/img/Framework.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about-us.html" afterPath="$PROJECT_DIR$/about-us.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/Navigation-Menu.css" afterPath="$PROJECT_DIR$/assets/css/Navigation-Menu.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/multi-sections.css" afterPath="$PROJECT_DIR$/assets/css/multi-sections.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/page-bread.css" afterPath="$PROJECT_DIR$/assets/css/page-bread.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/styles.css" afterPath="$PROJECT_DIR$/assets/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/vmworld.css" afterPath="$PROJECT_DIR$/assets/css/vmworld.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/logo-slider.js" afterPath="$PROJECT_DIR$/assets/js/logo-slider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/awsreinvent.html" afterPath="$PROJECT_DIR$/awsreinvent.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coming-soon.html" afterPath="$PROJECT_DIR$/coming-soon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact-us.html" afterPath="$PROJECT_DIR$/contact-us.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scloud.html" afterPath="$PROJECT_DIR$/scloud.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions.html" afterPath="$PROJECT_DIR$/solutions.html" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+<<<<<<< HEAD
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/approach.html" afterPath="$PROJECT_DIR$/approach.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/techpartners.html" afterPath="$PROJECT_DIR$/techpartners.html" />
+=======
+>>>>>>> mustafa
+>>>>>>> master
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="415967" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="474747" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="D2D4D5" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="4E5579" />
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="308">
+              <caret line="598" column="89" lean-forward="true" selection-start-line="598" selection-start-column="89" selection-end-line="598" selection-end-column="89" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="720">
+              <caret line="625" column="0" lean-forward="true" selection-start-line="625" selection-start-column="0" selection-end-line="625" selection-end-column="0" />
+              <folding />
+=======
+            <state relative-caret-position="-570">
+              <caret line="582" column="35" lean-forward="false" selection-start-line="582" selection-start-column="35" selection-end-line="582" selection-end-column="35" />
+>>>>>>> master
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#noscript#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1510122026674" expanded="true" signature="50108:50125" ph="..." />
+                <marker date="1510122026674" expanded="true" signature="50140:50161" ph="..." />
+                <marker date="1510122026674" expanded="true" signature="50305:50332" ph="..." />
+                <marker date="1510122026674" expanded="true" signature="50878:50895" ph="..." />
+                <marker date="1510122026674" expanded="true" signature="50910:50930" ph="..." />
+                <marker date="1510122026674" expanded="true" signature="51074:51101" ph="..." />
+                <marker date="1510122026674" expanded="true" signature="51649:51666" ph="..." />
+                <marker date="1510122026674" expanded="true" signature="51681:51702" ph="..." />
+                <marker date="1510122026674" expanded="true" signature="51846:51873" ph="..." />
+                <marker date="1510122026674" expanded="true" signature="52374:52391" ph="..." />
+                <marker date="1510122026674" expanded="true" signature="52406:52427" ph="..." />
+                <marker date="1510122026674" expanded="true" signature="52575:52602" ph="..." />
+                <marker date="1510122026674" expanded="true" signature="53098:53115" ph="..." />
+                <marker date="1510122026674" expanded="true" signature="53130:53151" ph="..." />
+                <marker date="1510122026674" expanded="true" signature="53299:53326" ph="..." />
+                <marker date="1510122026674" expanded="true" signature="53824:53841" ph="..." />
+                <marker date="1510122026674" expanded="true" signature="53856:53876" ph="..." />
+                <marker date="1510122026674" expanded="true" signature="54024:54051" ph="..." />
+              </folding>
+>>>>>>> mustafa
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="awsreinvent.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/awsreinvent.html">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="90">
+              <caret line="50" column="31" lean-forward="false" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vmworld.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/vmworld.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="342" column="5" lean-forward="false" selection-start-line="342" selection-start-column="5" selection-end-line="342" selection-end-column="5" />
+=======
+            <state relative-caret-position="26">
+<<<<<<< HEAD
+              <caret line="2568" column="1" lean-forward="true" selection-start-line="2568" selection-start-column="1" selection-end-line="2568" selection-end-column="1" />
+=======
+              <caret line="5670" column="1" lean-forward="false" selection-start-line="5670" selection-start-column="1" selection-end-line="5670" selection-end-column="1" />
+>>>>>>> mustafa
+>>>>>>> master
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact-us.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact-us.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6150">
+              <caret line="206" column="60" lean-forward="false" selection-start-line="206" selection-start-column="60" selection-end-line="206" selection-end-column="60" />
+              <folding>
+                <element signature="n#style#0;n#hr#0;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#1;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#hr#1;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#a#0;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#a#1;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#hr#2;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#15967#15973#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="solutions.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solutions.html">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="4710">
+              <caret line="160" column="17" lean-forward="false" selection-start-line="160" selection-start-column="17" selection-end-line="160" selection-end-column="17" />
+              <folding>
+                <element signature="n#h2#0;n#div#0;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#P#0;n#div#0;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#P#0;n#div#0;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#div#0;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#h2#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="false" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="-810">
+              <caret line="105" column="70" lean-forward="false" selection-start-line="105" selection-start-column="70" selection-end-line="105" selection-end-column="70" />
+              <folding>
+                <marker date="1509183029340" expanded="true" signature="11378:12653" ph="..." />
+=======
+            <state relative-caret-position="30">
+              <caret line="133" column="70" lean-forward="false" selection-start-line="133" selection-start-column="70" selection-end-line="133" selection-end-column="70" />
+              <folding>
+                <marker date="1509183346368" expanded="true" signature="11856:13131" ph="..." />
+                <marker date="1509183346368" expanded="true" signature="11878:13112" ph="{...}" />
+                <marker date="1509183346368" expanded="true" signature="11966:12401" ph="{...}" />
+                <marker date="1509183346368" expanded="true" signature="12124:12389" ph="{...}" />
+>>>>>>> mustafa
+>>>>>>> master
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mobile.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/mobile.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="202" column="31" lean-forward="false" selection-start-line="202" selection-start-column="31" selection-end-line="202" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;li&gt;&lt;a href=&quot;&quot;&gt;Private Cloud&lt;/a&gt;&lt;/li&gt;</find>
+      <find>&lt;li&gt;&lt;a href=&quot;&quot;&gt;security&lt;/a&gt;&lt;/li&gt;</find>
+      <find>&lt;li&gt;&lt;a href=&quot;&quot;&gt;Assessment and Audit&lt;/a&gt;&lt;/li&gt;</find>
+      <find>&lt;li&gt;&lt;a href=&quot;&quot;&gt;Financial&lt;/a&gt;&lt;/li&gt;</find>
+      <find>&lt;li&gt;&lt;a href=&quot;&quot;&gt;Telecom&lt;/a&gt;&lt;/li&gt;</find>
+      <find>&lt;li&gt;&lt;a href=&quot;&quot;&gt;Enterprise IT&lt;/a&gt;&lt;/li&gt;</find>
+      <find>&lt;li&gt;&lt;a href=&quot;&quot;&gt;Healthcare&lt;/a&gt;&lt;/li&gt;</find>
+      <find>&lt;li&gt;&lt;a href=&quot;&quot;&gt;infrastructure as a code &lt;span&gt;IAC&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;</find>
+      <find>&lt;li&gt;&lt;a href=&quot;infrasturcture.html&quot;&gt;infrastructure  as a code &lt;span&gt;IAC&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;</find>
+      <find>\&lt;\!\-\-\&lt;li\&gt;\&lt;a href\=\&quot;\#\/\&quot;\&gt;Synectiks Software Defined Cloud\&lt;\/a\&gt;\&lt;\/li\&gt;\-\-\&gt;\n                        \&lt;\!\-\-\&lt;li\&gt;\&lt;a href\=\&quot;\#\/\&quot;\&gt;Virtualization\&lt;\/a\&gt;\&lt;\/li\&gt;\-\-\&gt;\n                        \&lt;\!\-\-\&lt;li\&gt;\&lt;a href\=\&quot;\#\/\&quot;\&gt;Networking\&lt;\/a\&gt;\&lt;\/li\&gt;\-\-\&gt;\n                        \&lt;\!\-\-\&lt;li\&gt;\&lt;a href\=\&quot;\#\/\&quot;\&gt;Storage\&lt;\/a\&gt;\&lt;\/li\&gt;\-\-\&gt;\n                        \&lt;\!\-\-\&lt;li\&gt;\&lt;a href\=\&quot;\#\/\&quot;\&gt;Converged Infrastructure\&lt;\/a\&gt;\&lt;\/li\&gt;\-\-\&gt;\n                        \&lt;\!\-\-\&lt;li\&gt;\&lt;a href\=\&quot;\#\/\&quot;\&gt;Hyperscale Infrastructure\&lt;\/a\&gt;\&lt;\/li\&gt;\-\-\&gt;\n                        \&lt;\!\-\-\&lt;li class\=\&quot;head\&quot;\&gt;\&lt;a href\=\&quot;\#\/\&quot;\&gt;Data Protection\&lt;\/a\&gt;\&lt;\/li\&gt;\-\-\&gt;\n                        \&lt;\!\-\-\&lt;li\&gt;\&lt;a href\=\&quot;\#\/\&quot;\&gt;Automation\/Orchestration\&lt;\/a\&gt;\&lt;\/li\&gt;\-\-\&gt;</find>
+      <find>&lt;li&gt;&lt;a href=&quot;techpartners.html&quot;&gt;Technology Partners&lt;/a&gt;&lt;/li&gt;</find>
+      <find>h4</find>
+      <find>\&lt;div class\=\&quot;social\-details\&quot;\&gt;\n                \&lt;ul class\=\&quot;ww\-social\-list \&quot;\&gt;\n                    \&lt;li class\=\&quot;req\&quot;\&gt;\&lt;a href\=\&quot;\#\/\&quot;\&gt;Request for proposal \&lt;span class\=\&quot;ver\-line\&quot;\&gt;\|\&lt;\/span\&gt;\&lt;\/a\&gt;\&lt;li\&gt;\n                    \&lt;li\&gt;\&lt;a class\=\&quot;faq\&quot; href\=\&quot;faq\.html\&quot;\&gt;FAQs\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a target\=\&quot;_blank\&quot; rel\=\&quot;tooltip\&quot; data\-original\-title\=\&quot;Facebook\&quot;\n                           href\=\&quot;https\:\/\/www\.facebook\.com\/synectikscloud\/\&quot;\&gt;\n                        \&lt;i class\=\&quot;fa fa\-facebook\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\n                    \&lt;\/li\&gt;\&lt;li\&gt;\&lt;a target\=\&quot;_blank\&quot; rel\=\&quot;tooltip\&quot;\n                                data\-original\-title\=\&quot;Twitter\&quot; href\=\&quot;https\:\/\/twitter\.com\/synectiks\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-twitter\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a target\=\&quot;_blank\&quot; rel\=\&quot;tooltip\&quot; data\-original\-title\=\&quot;Linkedin\&quot;\n                           href\=\&quot;https\:\/\/www\.linkedin\.com\/company\/7941089\/\&quot;\&gt;\n                        \&lt;i class\=\&quot;fa fa\-linkedin\&quot; style\=\&quot;margin\-left\:\-0\.8em\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\&lt;\/ul\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;</find>
+      <find>&lt;!-- &lt;div class=&quot;social-details&quot;&gt;                &lt;ul class=&quot;ww-social-list &quot;&gt;                    &lt;li class=&quot;req&quot;&gt;&lt;a href=&quot;#/&quot;&gt;Request for proposal &lt;span class=&quot;ver-line&quot;&gt;|&lt;/span&gt;&lt;/a&gt;&lt;li&gt;                    &lt;li&gt;&lt;a class=&quot;faq&quot; href=&quot;faq.html&quot;&gt;FAQs&lt;/a&gt;&lt;/li&gt;                    &lt;li&gt;&lt;a target=&quot;_blank&quot; rel=&quot;tooltip&quot; data-original-title=&quot;Facebook&quot;                           href=&quot;https://www.facebook.com/synectikscloud/&quot;&gt;                        &lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;                    &lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot; rel=&quot;tooltip&quot;                                data-original-title=&quot;Twitter&quot; href=&quot;https://twitter.com/synectiks&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;                    &lt;li&gt;&lt;a target=&quot;_blank&quot; rel=&quot;tooltip&quot; data-original-title=&quot;Linkedin&quot;                           href=&quot;https://www.linkedin.com/company/7941089/&quot;&gt;                        &lt;i class=&quot;fa fa-linkedin&quot; style=&quot;margin-left:-0.8em&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;            &lt;/div&gt;        &lt;/div&gt; --&gt;</find>
+      <find>\&lt;\!\-\- \&lt;div class\=\&quot;social\-details\&quot;\&gt;                \&lt;ul class\=\&quot;ww\-social\-list \&quot;\&gt;                  \n              \&lt;li class\=\&quot;req\&quot;\&gt;\&lt;a href\=\&quot;\#\/\&quot;\&gt;Request for proposal \&lt;span class\=\&quot;ver\-line\&quot;\&gt;\|\&lt;\/span\&gt;\&lt;\/a\&gt;\&lt;li\&gt;                \n                  \&lt;li\&gt;\&lt;a class\=\&quot;faq\&quot; href\=\&quot;faq\.html\&quot;\&gt;FAQs\&lt;\/a\&gt;\&lt;\/li\&gt;                  \n                    \&lt;li\&gt;\&lt;a target\=\&quot;_blank\&quot; rel\=\&quot;tooltip\&quot; data\-original\-title\=\&quot;Facebook\&quot;                       \n                        href\=\&quot;https\:\/\/www\.facebook\.com\/synectikscloud\/\&quot;\&gt;                     \n                           \&lt;i class\=\&quot;fa fa\-facebook\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;                    \&lt;\/li\&gt;\&lt;li\&gt;\&lt;a target\=\&quot;_blank\&quot; rel\=\&quot;tooltip\&quot;           \n                                                data\-original\-title\=\&quot;Twitter\&quot; href\=\&quot;https\:\/\/twitter\.com\/synectiks\&quot;\&gt;\n                                                \&lt;i class\=\&quot;fa fa\-twitter\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;                  \n                                                  \&lt;li\&gt;\&lt;a target\=\&quot;_blank\&quot; rel\=\&quot;tooltip\&quot; data\-original\-title\=\&quot;Linkedin\&quot;                     \n                                                        href\=\&quot;https\:\/\/www\.linkedin\.com\/company\/7941089\/\&quot;\&gt;                     \n                                                           \&lt;i class\=\&quot;fa fa\-linkedin\&quot; style\=\&quot;margin\-left\:\-0\.8em\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\&lt;\/ul\&gt;    \n                                                                   \&lt;\/div\&gt;        \&lt;\/div\&gt; \-\-\&gt;</find>
+      <find>\&lt;div class\=\&quot;footer\-basic\&quot; style\=\&quot;\;color\:\#78797a\;\&quot;\&gt;\n    \&lt;footer\&gt;\n        \&lt;div class\=\&quot;foot\-email\&quot;\&gt;\n            \&lt;h4 class\=\&quot;text\-center white\&quot;\&gt;\&lt;span class\=\&quot;email\-us\&quot;\&gt;Email us for\&lt;\/span\&gt;\n                \&lt;span class\=\&quot;gen\-enq\&quot;\&gt;General Enquiry\: info\@synectiks\.com \&lt;\/span\&gt;\n                \&lt;span\&gt;\|\&lt;\/span\&gt; \&lt;span\&gt;Sales Enquiry\:info\@synectiks\.com\&lt;\/span\&gt;\&lt;\/h4\&gt;\n        \&lt;\/div\&gt;\n        \&lt;ul class\=\&quot;list\-inline\&quot; style\=\&quot;text\-align\: center\;\&quot;\&gt;\n            \&lt;li\&gt;\&lt;a target\=\&quot;_blank\&quot; href\=\&quot;https\:\/\/www\.facebook\.com\/synectikscloud\/\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-facebook\-f\&quot;\&gt;\&lt;\/i\&gt;Facebook\&lt;\/a\&gt;\&lt;\/li\&gt;\n            \&lt;li\&gt;\&lt;a target\=\&quot;_blank\&quot; href\=\&quot;https\:\/\/twitter\.com\/synectiks\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-twitter\&quot;\&gt;\&lt;\/i\&gt;Twitter\&lt;\/a\&gt;\&lt;\/li\&gt;\n            \&lt;li\&gt;\&lt;a target\=\&quot;_blank\&quot; href\=\&quot;https\:\/\/www\.linkedin\.com\/company\/7941089\/ \&quot;\&gt;\&lt;i class\=\&quot;fa fa\-linkedin\&quot;\&gt;\&lt;\/i\&gt;Linkedin\&lt;\/a\&gt;\&lt;\/li\&gt;\n\n        \&lt;\/ul\&gt;\n\n        \&lt;div class\=\&quot;footer\-columns\&quot;\&gt;\n            \&lt;div class\=\&quot;list\-1\&quot;\&gt;\n                \&lt;ul\&gt;\n                    \&lt;li class\=\&quot;heading5\&quot; style\=\&quot;margin\-left\:\-0\.1em\; font\-size\: 15px\;\&quot;\&gt;\&lt;b\&gt;Soutions by Applications\&lt;\/b\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;infrastructure\.html\&quot;\&gt;infrastructure as a code \&lt;span\&gt;IAC\&lt;\/span\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;devops\.html\&quot;\&gt;Devops\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;bigdata\.html\&quot;\&gt;Bigdata\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;storage\-migration\.html\&quot;\&gt;storage Migration\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;backup\-recovery\.html\&quot;\&gt;Backup Recovery\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;storage\-migration\.html\&quot;\&gt;Storage Migration\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;hybrid\-cloud\.html\&quot;\&gt;Hybrid Cloud\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;assessment\-audit\.html\&quot;\&gt;Assessment and Audit\&lt;\/a\&gt;\&lt;\/li\&gt;\n                \&lt;\/ul\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;list\-2\&quot;\&gt;\n                \&lt;ul\&gt;\n                    \&lt;li class\=\&quot;heading5\&quot; style\=\&quot;margin\-left\:\-0\.1em\; font\-size\: 15px\;\&quot;\&gt;\&lt;b\&gt;Soutions by industry\&lt;\/b\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;financial\.html\&quot;\&gt;Financial\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;telecom\.html\&quot;\&gt;Telecom\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;government\-solutions\.html\&quot;\&gt;Government\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;healthcare\.html\&quot;\&gt;Healthcare\&lt;\/a\&gt;\&lt;\/li\&gt;\n                \&lt;\/ul\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;list\-3\&quot;\&gt;\n                \&lt;ul\&gt;\n                    \&lt;li class\=\&quot;heading5\&quot; style\=\&quot;margin\-left\:\-0\.1em\; font\-size\: 15px\;\&quot;\&gt;\&lt;b\&gt;Services\&lt;\/b\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;consulting\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;scloud\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;data center\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;micro services\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;Productivity\&lt;\/a\&gt;\&lt;\/li\&gt;\n                \&lt;\/ul\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;sec\-4\&quot;\&gt;\n                \&lt;h5 class\=\&quot;heading5\&quot; style\=\&quot;margin\-left\:\-0\.1em\; font\-size\: 15px\;\&quot;\&gt;\&lt;b\&gt;SYNECTIKS\&lt;\/b\&gt;\&lt;\/h5\&gt;\n                \&lt;p class\=\&quot;lead\-text text\-left\&quot; \&gt;\n                    \&quot;syn\-ec\-tics \- \[si\-nek\-tiks\] \– the study of creative processes\, esp\. as applied to the solution of problems by a\n                    group of diverse individuals\.\&quot;\&lt;br\&gt;\n                    \&lt;br\&gt;\n                    We are a team of highly qualified and experienced professionals from various\n                    fields who are determined and dedicated to delivering world class professional services to our patrons\.\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n\n    \&lt;\/footer\&gt;\n\&lt;\/div\&gt;</find>
+      <find>\&lt;div class\=\&quot;footer\-basic\&quot; style\=\&quot;\;color\:\#78797a\;\&quot;\&gt;\n    \&lt;footer\&gt;\n        \&lt;div class\=\&quot;foot\-email\&quot;\&gt;\n            \&lt;h4 class\=\&quot;text\-center white\&quot;\&gt;\&lt;span class\=\&quot;email\-us\&quot;\&gt;Email us for\&lt;\/span\&gt;\n                \&lt;span class\=\&quot;gen\-enq\&quot;\&gt;General Enquiry\: info\@synectiks\.com \&lt;\/span\&gt;\n                \&lt;span\&gt;\|\&lt;\/span\&gt; \&lt;span\&gt;Sales Enquiry\:info\@synectiks\.com\&lt;\/span\&gt;\&lt;\/h4\&gt;\n        \&lt;\/div\&gt;\n        \&lt;ul class\=\&quot;list\-inline\&quot; style\=\&quot;text\-align\: center\;\&quot;\&gt;\n            \&lt;li\&gt;\&lt;a target\=\&quot;_blank\&quot; href\=\&quot;https\:\/\/www\.facebook\.com\/synectikscloud\/\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-facebook\-f\&quot;\&gt;\&lt;\/i\&gt;Facebook\&lt;\/a\&gt;\n            \&lt;\/li\&gt;\n            \&lt;li\&gt;\&lt;a target\=\&quot;_blank\&quot; href\=\&quot;https\:\/\/twitter\.com\/synectiks\&quot;\&gt;\&lt;i class\=\&quot;fa fa\-twitter\&quot;\&gt;\&lt;\/i\&gt;Twitter\&lt;\/a\&gt;\&lt;\/li\&gt;\n            \&lt;li\&gt;\&lt;a target\=\&quot;_blank\&quot; href\=\&quot;https\:\/\/www\.linkedin\.com\/company\/7941089\/ \&quot;\&gt;\&lt;i class\=\&quot;fa fa\-linkedin\&quot;\&gt;\&lt;\/i\&gt;Linkedin\&lt;\/a\&gt;\n            \&lt;\/li\&gt;\n\n        \&lt;\/ul\&gt;\n\n        \&lt;div class\=\&quot;footer\-columns\&quot;\&gt;\n            \&lt;div class\=\&quot;list\-1\&quot;\&gt;\n                \&lt;ul\&gt;\n                    \&lt;li class\=\&quot;heading5\&quot; style\=\&quot;margin\-left\:\-0\.1em\; font\-size\: 15px\;\&quot;\&gt;\&lt;b\&gt;Soutions by Applications\&lt;\/b\&gt;\n                    \&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;infrastructure\.html\&quot;\&gt;infrastructure as a code \&lt;span\&gt;IAC\&lt;\/span\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;devops\.html\&quot;\&gt;Devops\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;bigdata\.html\&quot;\&gt;Bigdata\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;storage\-migration\.html\&quot;\&gt;storage Migration\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;backup\-recovery\.html\&quot;\&gt;Backup Recovery\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;storage\-migration\.html\&quot;\&gt;Storage Migration\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;hybrid\-cloud\.html\&quot;\&gt;Hybrid Cloud\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;assessment\-audit\.html\&quot;\&gt;Assessment and Audit\&lt;\/a\&gt;\&lt;\/li\&gt;\n                \&lt;\/ul\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;list\-2\&quot;\&gt;\n                \&lt;ul\&gt;\n                    \&lt;li class\=\&quot;heading5\&quot; style\=\&quot;margin\-left\:\-0\.1em\; font\-size\: 15px\;\&quot;\&gt;\&lt;b\&gt;Soutions by industry\&lt;\/b\&gt;\&lt;\/a\&gt;\n                    \&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;financial\.html\&quot;\&gt;Financial\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;telecom\.html\&quot;\&gt;Telecom\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;government\-solutions\.html\&quot;\&gt;Government\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;healthcare\.html\&quot;\&gt;Healthcare\&lt;\/a\&gt;\&lt;\/li\&gt;\n                \&lt;\/ul\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;list\-3\&quot;\&gt;\n                \&lt;ul\&gt;\n                    \&lt;li class\=\&quot;heading5\&quot; style\=\&quot;margin\-left\:\-0\.1em\; font\-size\: 15px\;\&quot;\&gt;\&lt;b\&gt;Services\&lt;\/b\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;consulting\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;scloud\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;data center\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;micro services\&lt;\/a\&gt;\&lt;\/li\&gt;\n                    \&lt;li\&gt;\&lt;a href\=\&quot;\&quot;\&gt;Productivity\&lt;\/a\&gt;\&lt;\/li\&gt;\n                \&lt;\/ul\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;sec\-4\&quot;\&gt;\n                \&lt;h5 class\=\&quot;heading5\&quot; style\=\&quot;margin\-left\:\-0\.1em\; font\-size\: 15px\;\&quot;\&gt;\&lt;b\&gt;SYNECTIKS\&lt;\/b\&gt;\&lt;\/h5\&gt;\n                \&lt;p class\=\&quot;lead\-text text\-left\&quot;\&gt;\n                    \&quot;syn\-ec\-tics \- \[si\-nek\-tiks\] \– the study of creative processes\, esp\. as applied to the solution of\n                    problems by a\n                    group of diverse individuals\.\&quot;\&lt;br\&gt;\n                    \&lt;br\&gt;\n                    We are a team of highly qualified and experienced professionals from various\n                    fields who are determined and dedicated to delivering world class professional services to our\n                    patrons\.\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n\n    \&lt;\/footer\&gt;\n\&lt;\/div\&gt;</find>
+      <find>moden</find>
+      <find>pade</find>
+      <find>faq</find>
+      <find>text-faq</find>
+      <find>faq-bg</find>
+      <find>hgh</find>
+      <find>synec-infra</find>
+      <find>dropdown--menu</find>
+      <find>mega</find>
+      <find>text-left</find>
+      <find>401</find>
+      <find>tech</find>
+      <find>bg-</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;li&gt;&lt;a href=&quot;#/&quot;&gt;Microservice development&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;#/&quot;&gt;Bigdata Development&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;#/&quot;&gt;IOT development&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;#/&quot;&gt;Application Integration&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li &gt;&lt;a class=&quot;menu-bold-heading&quot; href=&quot;#/&quot;&gt;Devops&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;#/&quot;&gt;Application Lifecycle Management&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;#/&quot;&gt;Operation Support System&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;#/&quot;&gt;Automations&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;infrasturcture.html&quot;&gt;infrastructure  as a code &lt;span&gt;IAC&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;devops.html&quot;&gt;Devops&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;bigdata.html&quot;&gt;Bigdata&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;storage-migration.html&quot;&gt;storage Migration&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;backup-recovery.html&quot;&gt;Backup Recovery&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;storage-migration.html&quot;&gt;Storage Migration&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;hybrid-cloud.html&quot;&gt;Hybrid Cloud&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;assessment-audit.html&quot;&gt;Assessment and Audit&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;financial.html&quot;&gt;Financial&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;telecom.html&quot;&gt;Telecom&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;government-solutions.html&quot;&gt;Government&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;healthcare.html&quot;&gt;Healthcare&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;infrastructure.html&quot;&gt;infrastructure as a code &lt;span&gt;IAC&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;scloud.html&quot;&gt;Scloud&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;techpartners.html&quot;&gt;Technology Partners&lt;/a&gt;&lt;/li&gt;</replace>
+      <replace>h5</replace>
+      <replace>&lt;!-- &lt;div class=&quot;social-details&quot;&gt;                &lt;ul class=&quot;ww-social-list &quot;&gt;                    &lt;li class=&quot;req&quot;&gt;&lt;a href=&quot;#/&quot;&gt;Request for proposal &lt;span class=&quot;ver-line&quot;&gt;|&lt;/span&gt;&lt;/a&gt;&lt;li&gt;                    &lt;li&gt;&lt;a class=&quot;faq&quot; href=&quot;faq.html&quot;&gt;FAQs&lt;/a&gt;&lt;/li&gt;                    &lt;li&gt;&lt;a target=&quot;_blank&quot; rel=&quot;tooltip&quot; data-original-title=&quot;Facebook&quot;                           href=&quot;https://www.facebook.com/synectikscloud/&quot;&gt;                        &lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;                    &lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot; rel=&quot;tooltip&quot;                                data-original-title=&quot;Twitter&quot; href=&quot;https://twitter.com/synectiks&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;                    &lt;li&gt;&lt;a target=&quot;_blank&quot; rel=&quot;tooltip&quot; data-original-title=&quot;Linkedin&quot;                           href=&quot;https://www.linkedin.com/company/7941089/&quot;&gt;                        &lt;i class=&quot;fa fa-linkedin&quot; style=&quot;margin-left:-0.8em&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;            &lt;/div&gt;        &lt;/div&gt; --&gt;</replace>
+      <replace>&lt;div class=&quot;social-details&quot;&gt;                &lt;ul class=&quot;ww-social-list &quot;&gt;                    &lt;li class=&quot;req&quot;&gt;&lt;a href=&quot;#/&quot;&gt;Request for proposal &lt;span class=&quot;ver-line&quot;&gt;|&lt;/span&gt;&lt;/a&gt;&lt;li&gt;                    &lt;li&gt;&lt;a class=&quot;faq&quot; href=&quot;faq.html&quot;&gt;FAQs&lt;/a&gt;&lt;/li&gt;                    &lt;li&gt;&lt;a target=&quot;_blank&quot; rel=&quot;tooltip&quot; data-original-title=&quot;Facebook&quot;                           href=&quot;https://www.facebook.com/synectikscloud/&quot;&gt;                        &lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;                    &lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot; rel=&quot;tooltip&quot;                                data-original-title=&quot;Twitter&quot; href=&quot;https://twitter.com/synectiks&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;                    &lt;li&gt;&lt;a target=&quot;_blank&quot; rel=&quot;tooltip&quot; data-original-title=&quot;Linkedin&quot;                           href=&quot;https://www.linkedin.com/company/7941089/&quot;&gt;                        &lt;i class=&quot;fa fa-linkedin&quot; style=&quot;margin-left:-0.8em&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;            &lt;/div&gt;        &lt;/div&gt; --&gt;</replace>
+      <replace>&lt;div class=&quot;social-details&quot;&gt;                &lt;ul class=&quot;ww-social-list &quot;&gt;                                &lt;li class=&quot;req&quot;&gt;&lt;a href=&quot;#/&quot;&gt;Request for proposal &lt;span class=&quot;ver-line&quot;&gt;|&lt;/span&gt;&lt;/a&gt;&lt;li&gt;                                  &lt;li&gt;&lt;a class=&quot;faq&quot; href=&quot;faq.html&quot;&gt;FAQs&lt;/a&gt;&lt;/li&gt;                                      &lt;li&gt;&lt;a target=&quot;_blank&quot; rel=&quot;tooltip&quot; data-original-title=&quot;Facebook&quot;                                               href=&quot;https://www.facebook.com/synectikscloud/&quot;&gt;                                                &lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;                    &lt;/li&gt;&lt;li&gt;&lt;a target=&quot;_blank&quot; rel=&quot;tooltip&quot;                                                           data-original-title=&quot;Twitter&quot; href=&quot;https://twitter.com/synectiks&quot;&gt;                                                &lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;                                                                    &lt;li&gt;&lt;a target=&quot;_blank&quot; rel=&quot;tooltip&quot; data-original-title=&quot;Linkedin&quot;                                                                             href=&quot;https://www.linkedin.com/company/7941089/&quot;&gt;                                                                                &lt;i class=&quot;fa fa-linkedin&quot; style=&quot;margin-left:-0.8em&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;                                                                       &lt;/div&gt;        &lt;/div&gt;</replace>
+      <replace>&lt;footer style=&quot;background: transparent&quot;&gt;    &lt;div class=&quot;row&quot; style=&quot;border-bottom: 1px solid #cecece; padding: 0.5em;&quot;&gt;        &lt;div class=&quot;col-md-5&quot;&gt;   &lt;div class=&quot;footer-menu padding-top&quot;&gt;        &lt;ul class=&quot;footer-menu-list&quot;&gt;            &lt;li&gt;&lt;a class=&quot;footer-link-menu&quot; href=&quot;solutions.html&quot;&gt;Solutions&lt;/a&gt;&lt;/li&gt;            &lt;li&gt;&lt;a class=&quot;footer-link-menu&quot; href=&quot;scloud.html&quot;&gt;Scloud&lt;/a&gt;&lt;/li&gt;            &lt;li&gt;&lt;a class=&quot;footer-link-menu&quot; href=&quot;techpartners.html&quot;&gt;Technology Partners&lt;/a&gt;&lt;/li&gt;            &lt;li&gt;&lt;a class=&quot;footer-link-menu&quot; href=&quot;career.html&quot;&gt;Careers&lt;/a&gt;&lt;/li&gt;            &lt;li&gt;&lt;a class=&quot;footer-link-menu&quot; href=&quot;contact-us.html&quot;&gt;Contact Us&lt;/a&gt;&lt;/li&gt;        &lt;/ul&gt;        &lt;/div&gt;        &lt;/div&gt;        &lt;div class=&quot;col-md-6&quot;&gt;            &lt;div class=&quot;social text-right padding-top&quot;&gt;        &lt;a class=&quot;fa fa-twitter&quot; title=&quot;&quot; target=&quot;_blank&quot; href=&quot;https://twitter.com/synectiks&quot;&gt;&lt;/a&gt;        &lt;a class=&quot;fa fa-facebook&quot; title=&quot;&quot; target=&quot;_blank&quot; href=&quot;https://www.facebook.com/synectikscloud/&quot;&gt;&lt;/a&gt;        &lt;a class=&quot;fa fa-linkedin&quot; title=&quot;&quot; target=&quot;_blank&quot; href=&quot;https://www.linkedin.com/company/7941089/&quot;&gt;&lt;/a&gt;    &lt;/div&gt;    &lt;/div&gt;    &lt;/div&gt;    &lt;div class=&quot;margin-footer&quot;&gt;&lt;h6 class=&quot;text-center grey-color&quot;&gt;&amp;COPY; Synectiks is Trademark of Synectiks Inc. All Right Reserved.&lt;/h6&gt;&lt;h6 class=&quot;text-center grey-color&quot;&gt;Terms &amp; Conditions | Privacy Policy&lt;/h6&gt;&lt;/div&gt;&lt;/footer&gt;</replace>
+      <replace>modern</replace>
+      <replace>f0244a</replace>
+      <replace>#fbba00</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/iot.html" />
+        <option value="$PROJECT_DIR$/java-developer.html" />
+        <option value="$PROJECT_DIR$/linux-admin.html" />
+        <option value="$PROJECT_DIR$/microservices.html" />
+        <option value="$PROJECT_DIR$/office-admin.html" />
+        <option value="$PROJECT_DIR$/operation-professional.html" />
+        <option value="$PROJECT_DIR$/pc.html" />
+        <option value="$PROJECT_DIR$/qa-analyst.html" />
+        <option value="$PROJECT_DIR$/realtime-monitoring.html" />
+        <option value="$PROJECT_DIR$/sales.html" />
+        <option value="$PROJECT_DIR$/security.html" />
+        <option value="$PROJECT_DIR$/storage-migration.html" />
+        <option value="$PROJECT_DIR$/system-admin.html" />
+        <option value="$PROJECT_DIR$/team-page.html" />
+        <option value="$PROJECT_DIR$/tele.html" />
+        <option value="$PROJECT_DIR$/telecom.html" />
+        <option value="$PROJECT_DIR$/ui-developer.html" />
+        <option value="$PROJECT_DIR$/ux-designer.html" />
+        <option value="$PROJECT_DIR$/vmware-admin.html" />
+        <option value="$PROJECT_DIR$/vmware-architect.html" />
+        <option value="$PROJECT_DIR$/wintel-admin.html" />
+        <option value="$PROJECT_DIR$/aaa.html" />
+        <option value="$PROJECT_DIR$/contact-us-one.html" />
+        <option value="$PROJECT_DIR$/assets/css/menu-header1.css" />
+        <option value="$PROJECT_DIR$/assets/css/Footer-Basic.css" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/index.html" />
+>>>>>>> mustafa
+        <option value="$PROJECT_DIR$/solutions.html" />
+>>>>>>> master
+        <option value="$PROJECT_DIR$/devops-solutions.html" />
+        <option value="$PROJECT_DIR$/cloudservices.html" />
+        <option value="$PROJECT_DIR$/rap.html" />
+        <option value="$PROJECT_DIR$/moderndevops.html" />
+        <option value="$PROJECT_DIR$/cloudmigration.html" />
+        <option value="$PROJECT_DIR$/assets/css/subpages.css" />
+        <option value="$PROJECT_DIR$/micro.html" />
+        <option value="$PROJECT_DIR$/highperformance.html" />
+        <option value="$PROJECT_DIR$/faq.html" />
+        <option value="$PROJECT_DIR$/techpartners.html" />
+        <option value="$PROJECT_DIR$/assets/css/Navigation-Menu.css" />
+        <option value="$PROJECT_DIR$/assets/js/logo-slider.js" />
+        <option value="$PROJECT_DIR$/assets/css/tablet.css" />
+        <option value="$PROJECT_DIR$/coming-soon.html" />
+        <option value="$PROJECT_DIR$/about-us.html" />
+        <option value="$PROJECT_DIR$/scloud.html" />
+        <option value="$PROJECT_DIR$/assets/css/page-bread.css" />
+        <option value="$PROJECT_DIR$/approach.html" />
+        <option value="$PROJECT_DIR$/assets/css/multi-sections.css" />
+        <option value="$PROJECT_DIR$/solutions.html" />
+        <option value="$PROJECT_DIR$/contact-us.html" />
+        <option value="$PROJECT_DIR$/assets/css/styles.css" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/awsreinvent.html" />
+        <option value="$PROJECT_DIR$/assets/css/vmworld.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/mobile.css" />
+=======
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/index.html" />
+=======
+>>>>>>> mustafa
+>>>>>>> master
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="website-rewamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website-rewamp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="website-rewamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website-rewamp" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="website-rewamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website-rewamp" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Videos/Creating-responsive-web-design/practical" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="SearchEverywhereHistoryKey" value=" href&#9;null&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\website-rewamp\assets\img" />
+      <recent name="D:\website-rewamp" />
+      <recent name="C:\Users\user.DESKTOP-JIHUFI1\Documents\website-rewamp" />
+      <recent name="C:\Users\user.DESKTOP-JIHUFI1\Documents\website-rewamp\assets\js" />
+      <recent name="E:\website-rewamp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="approach.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/website-rewamp/approach.html" />
+    <configuration name="awsreinvent.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/website-rewamp/awsreinvent.html" />
+    <configuration name="contact-us.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/website-rewamp/contact-us.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63342/website-rewamp/index.html" />
+    <configuration name="solutions.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/website-rewamp/solutions.html" />
+    <configuration name="techpartners.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/website-rewamp/techpartners.html" />
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.approach.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.techpartners.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.awsreinvent.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.solutions.html" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.contact-us.html" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.awsreinvent.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.contact-us.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.solutions.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.approach.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.techpartners.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48f2c220-bf11-411f-b132-130a43b693db" name="Default" comment="" />
+      <created>1505455984905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505455984905</updated>
+      <workItem from="1505455987043" duration="16563000" />
+      <workItem from="1505537390071" duration="4631000" />
+      <workItem from="1505545498628" duration="1132000" />
+      <workItem from="1505557753886" duration="8225000" />
+      <workItem from="1505802276250" duration="20040000" />
+      <workItem from="1505882478539" duration="44980000" />
+      <workItem from="1505979796119" duration="3671000" />
+      <workItem from="1505990113476" duration="266000" />
+      <workItem from="1505990401402" duration="50829000" />
+      <workItem from="1506083861134" duration="2328000" />
+      <workItem from="1506141522956" duration="20826000" />
+      <workItem from="1506165720934" duration="6789000" />
+      <workItem from="1506400508317" duration="31222000" />
+      <workItem from="1506487401551" duration="24869000" />
+      <workItem from="1506581932256" duration="460000" />
+      <workItem from="1506582465107" duration="15539000" />
+      <workItem from="1506658701291" duration="24996000" />
+      <workItem from="1506699255000" duration="1634000" />
+      <workItem from="1507008768327" duration="24061000" />
+      <workItem from="1507059208268" duration="5206000" />
+      <workItem from="1507095446573" duration="27091000" />
+      <workItem from="1507124360987" duration="100000" />
+      <workItem from="1507178687525" duration="30210000" />
+      <workItem from="1507230024436" duration="653000" />
+      <workItem from="1507265223085" duration="14711000" />
+      <workItem from="1507289605142" duration="1560000" />
+      <workItem from="1507291648614" duration="6959000" />
+      <workItem from="1507350777894" duration="22109000" />
+      <workItem from="1507451834863" duration="5584000" />
+      <workItem from="1507486091446" duration="760000" />
+      <workItem from="1507611920533" duration="22425000" />
+      <workItem from="1507697243619" duration="19561000" />
+      <workItem from="1507725662374" duration="4259000" />
+      <workItem from="1507783825200" duration="1591000" />
+      <workItem from="1507785513619" duration="23057000" />
+      <workItem from="1507815155734" duration="528000" />
+      <workItem from="1507870156364" duration="14374000" />
+      <workItem from="1507955967462" duration="13104000" />
+      <workItem from="1508077127005" duration="976000" />
+      <workItem from="1508215357390" duration="11332000" />
+      <workItem from="1508243010666" duration="4590000" />
+      <workItem from="1508262565077" duration="623000" />
+      <workItem from="1508301743672" duration="21543000" />
+      <workItem from="1508329607897" duration="3615000" />
+      <workItem from="1508467817595" duration="3509000" />
+      <workItem from="1508519186093" duration="590000" />
+      <workItem from="1508526161859" duration="436000" />
+      <workItem from="1508560516664" duration="2878000" />
+      <workItem from="1508569881347" duration="6898000" />
+      <workItem from="1508914878642" duration="1532000" />
+      <workItem from="1509025379270" duration="1023000" />
+      <workItem from="1509084309697" duration="1001000" />
+      <workItem from="1509085432731" duration="15933000" />
+      <workItem from="1509165925233" duration="4020000" />
+      <workItem from="1509184446779" duration="10026000" />
+      <workItem from="1509424025472" duration="20051000" />
+      <workItem from="1509511689015" duration="24000" />
+      <workItem from="1509511794177" duration="19985000" />
+      <workItem from="1509539432980" duration="3481000" />
+      <workItem from="1509597866279" duration="76000" />
+      <workItem from="1509683732217" duration="17326000" />
+      <workItem from="1509736954621" duration="2396000" />
+      <workItem from="1509770483572" duration="224000" />
+      <workItem from="1509770816118" duration="10737000" />
+      <workItem from="1509788217438" duration="4618000" />
+      <workItem from="1509880296902" duration="591000" />
+      <workItem from="1510014101517" duration="30000" />
+      <workItem from="1510030195073" duration="24134000" />
+      <workItem from="1510073043219" duration="2990000" />
+      <workItem from="1510116377722" duration="5252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="726615000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="604720000" />
+=======
+    <option name="totallyTimeSpent" value="604674000" />
+>>>>>>> mustafa
+>>>>>>> master
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15625" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16526139" sideWeight="0.50818455" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5025295" sideWeight="0.49181548" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="bodylookin" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="atlassian-ide-plugin-workspace-issues">
+    <option name="view">
+      <JiraViewConfigurationBean>
+        <option name="viewFilterId" value="" />
+      </JiraViewConfigurationBean>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/qa-analyst.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="131" column="9" lean-forward="false" selection-start-line="131" selection-start-column="9" selection-end-line="131" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realtime-monitoring.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="132" column="9" lean-forward="false" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sales.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="131" column="9" lean-forward="false" selection-start-line="131" selection-start-column="9" selection-end-line="131" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="132" column="9" lean-forward="false" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slides.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage-migration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="132" column="9" lean-forward="false" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system-admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3240">
+          <caret line="132" column="9" lean-forward="false" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tele.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="132" column="9" lean-forward="false" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/telecom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="132" column="9" lean-forward="false" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui-developer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="131" column="9" lean-forward="false" selection-start-line="131" selection-start-column="9" selection-end-line="131" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ux-designer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="131" column="9" lean-forward="false" selection-start-line="131" selection-start-column="9" selection-end-line="131" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vmware-admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="132" column="9" lean-forward="false" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vmware-architect.html">
+<<<<<<< HEAD
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="132" column="9" lean-forward="false" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wintel-admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="129" column="10" lean-forward="true" selection-start-line="129" selection-start-column="10" selection-end-line="129" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3600">
+          <caret line="120" column="98" lean-forward="false" selection-start-line="120" selection-start-column="98" selection-end-line="120" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact-us-one.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="124" column="9" lean-forward="true" selection-start-line="124" selection-start-column="9" selection-end-line="124" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/menu-header1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5370">
+          <caret line="179" column="14" lean-forward="false" selection-start-line="179" selection-start-column="14" selection-end-line="179" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/Footer-Basic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops-solutions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="170" column="45" lean-forward="true" selection-start-line="170" selection-start-column="45" selection-end-line="170" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudservices.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="182" column="10" lean-forward="true" selection-start-line="182" selection-start-column="10" selection-end-line="182" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7230">
+          <caret line="241" column="10" lean-forward="false" selection-start-line="241" selection-start-column="10" selection-end-line="241" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moderndevops.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8580">
+          <caret line="294" column="40" lean-forward="false" selection-start-line="294" selection-start-column="40" selection-end-line="294" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudmigration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6810">
+          <caret line="227" column="12" lean-forward="false" selection-start-line="227" selection-start-column="12" selection-end-line="227" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/subpages.css">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="41">
+          <caret line="377" column="14" lean-forward="false" selection-start-line="377" selection-start-column="14" selection-end-line="377" selection-end-column="14" />
+=======
+        <state relative-caret-position="1086">
+          <caret line="139" column="22" lean-forward="false" selection-start-line="139" selection-start-column="22" selection-end-line="139" selection-end-column="22" />
+          <folding />
+>>>>>>> master
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="663">
+          <caret line="165" column="39" lean-forward="false" selection-start-line="165" selection-start-column="39" selection-end-line="165" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/highperformance.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="171" column="62" lean-forward="false" selection-start-line="171" selection-start-column="62" selection-end-line="171" selection-end-column="62" />
+        </state>
+=======
+        <state relative-caret-position="41">
+          <caret line="377" column="14" lean-forward="false" selection-start-line="377" selection-start-column="14" selection-end-line="377" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="132" column="9" lean-forward="false" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wintel-admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="129" column="10" lean-forward="true" selection-start-line="129" selection-start-column="10" selection-end-line="129" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3600">
+          <caret line="120" column="98" lean-forward="false" selection-start-line="120" selection-start-column="98" selection-end-line="120" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact-us-one.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="124" column="9" lean-forward="true" selection-start-line="124" selection-start-column="9" selection-end-line="124" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/menu-header1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5370">
+          <caret line="179" column="14" lean-forward="false" selection-start-line="179" selection-start-column="14" selection-end-line="179" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/Footer-Basic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops-solutions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="170" column="45" lean-forward="true" selection-start-line="170" selection-start-column="45" selection-end-line="170" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="291" column="1356" lean-forward="true" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="1356" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudservices.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="182" column="10" lean-forward="true" selection-start-line="182" selection-start-column="10" selection-end-line="182" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7230">
+          <caret line="241" column="10" lean-forward="false" selection-start-line="241" selection-start-column="10" selection-end-line="241" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moderndevops.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8580">
+          <caret line="294" column="40" lean-forward="false" selection-start-line="294" selection-start-column="40" selection-end-line="294" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudmigration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6810">
+          <caret line="227" column="12" lean-forward="false" selection-start-line="227" selection-start-column="12" selection-end-line="227" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/page-bread.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1086">
+          <caret line="139" column="22" lean-forward="false" selection-start-line="139" selection-start-column="22" selection-end-line="139" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/subpages.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="377" column="14" lean-forward="false" selection-start-line="377" selection-start-column="14" selection-end-line="377" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> mustafa
+    <entry file="file://$PROJECT_DIR$/assets/img/twitter-one.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+>>>>>>> master
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="136" column="39" lean-forward="true" selection-start-line="136" selection-start-column="39" selection-end-line="136" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/techpartners.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3990">
+          <caret line="133" column="70" lean-forward="false" selection-start-line="133" selection-start-column="70" selection-end-line="133" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/Navigation-Menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="46" column="57" lean-forward="false" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/logo-slider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/tablet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coming-soon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="132" column="0" lean-forward="true" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scloud.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4020">
+          <caret line="134" column="29" lean-forward="false" selection-start-line="134" selection-start-column="29" selection-end-line="134" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/page-bread.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/approach.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="4500">
+          <caret line="150" column="77" lean-forward="false" selection-start-line="150" selection-start-column="77" selection-end-line="150" selection-end-column="77" />
+=======
+        <state relative-caret-position="213">
+          <caret line="171" column="62" lean-forward="false" selection-start-line="171" selection-start-column="62" selection-end-line="171" selection-end-column="62" />
+<<<<<<< HEAD
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/multi-sections.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="169" column="32" lean-forward="false" selection-start-line="169" selection-start-column="32" selection-end-line="169" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="152" column="71" lean-forward="true" selection-start-line="152" selection-start-column="71" selection-end-line="152" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="136" column="39" lean-forward="true" selection-start-line="136" selection-start-column="39" selection-end-line="136" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+=======
+>>>>>>> master
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/multi-sections.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="176" column="61" lean-forward="false" selection-start-line="176" selection-start-column="47" selection-end-line="176" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/classie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2296">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/clipboard.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/assets/js/Slider_Carousel_webalgustocom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3403">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+>>>>>>> mustafa
+    <entry file="file://$PROJECT_DIR$/approach.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="136" column="12" lean-forward="false" selection-start-line="136" selection-start-column="12" selection-end-line="136" selection-end-column="12" />
+<<<<<<< HEAD
+          <folding />
+=======
+>>>>>>> mustafa
+>>>>>>> master
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/twitter-one.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="4710">
+          <caret line="160" column="17" lean-forward="false" selection-start-line="160" selection-start-column="17" selection-end-line="160" selection-end-column="17" />
+          <folding>
+            <element signature="n#h2#0;n#div#0;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#P#0;n#div#0;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#P#0;n#div#0;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h2#0;n#div#1;n#div#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6150">
+          <caret line="206" column="60" lean-forward="false" selection-start-line="206" selection-start-column="60" selection-end-line="206" selection-end-column="60" />
+          <folding>
+            <element signature="n#style#0;n#hr#0;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#1;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#a#0;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#a#1;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#2;n#div#1;n#div#1;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#15967#15973#0" expanded="true" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="-810">
+          <caret line="105" column="70" lean-forward="false" selection-start-line="105" selection-start-column="70" selection-end-line="105" selection-end-column="70" />
+          <folding>
+            <marker date="1509183029340" expanded="true" signature="11378:12653" ph="..." />
+=======
+        <state relative-caret-position="30">
+          <caret line="133" column="70" lean-forward="false" selection-start-line="133" selection-start-column="70" selection-end-line="133" selection-end-column="70" />
+          <folding>
+            <marker date="1509183346368" expanded="true" signature="11856:13131" ph="..." />
+            <marker date="1509183346368" expanded="true" signature="11878:13112" ph="{...}" />
+            <marker date="1509183346368" expanded="true" signature="11966:12401" ph="{...}" />
+            <marker date="1509183346368" expanded="true" signature="12124:12389" ph="{...}" />
+>>>>>>> mustafa
+>>>>>>> master
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="270">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/awsreinvent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="50" column="31" lean-forward="false" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/vmworld.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="342" column="5" lean-forward="false" selection-start-line="342" selection-start-column="5" selection-end-line="342" selection-end-column="5" />
+=======
+        <state relative-caret-position="26">
+<<<<<<< HEAD
+          <caret line="2568" column="1" lean-forward="true" selection-start-line="2568" selection-start-column="1" selection-end-line="2568" selection-end-column="1" />
+=======
+          <caret line="5670" column="1" lean-forward="false" selection-start-line="5670" selection-start-column="1" selection-end-line="5670" selection-end-column="1" />
+>>>>>>> mustafa
+>>>>>>> master
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="308">
+          <caret line="598" column="89" lean-forward="true" selection-start-line="598" selection-start-column="89" selection-end-line="598" selection-end-column="89" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="720">
+          <caret line="625" column="0" lean-forward="true" selection-start-line="625" selection-start-column="0" selection-end-line="625" selection-end-column="0" />
+          <folding />
+=======
+        <state relative-caret-position="-570">
+          <caret line="582" column="35" lean-forward="false" selection-start-line="582" selection-start-column="35" selection-end-line="582" selection-end-column="35" />
+>>>>>>> master
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#noscript#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1510122026674" expanded="true" signature="50108:50125" ph="..." />
+            <marker date="1510122026674" expanded="true" signature="50140:50161" ph="..." />
+            <marker date="1510122026674" expanded="true" signature="50305:50332" ph="..." />
+            <marker date="1510122026674" expanded="true" signature="50878:50895" ph="..." />
+            <marker date="1510122026674" expanded="true" signature="50910:50930" ph="..." />
+            <marker date="1510122026674" expanded="true" signature="51074:51101" ph="..." />
+            <marker date="1510122026674" expanded="true" signature="51649:51666" ph="..." />
+            <marker date="1510122026674" expanded="true" signature="51681:51702" ph="..." />
+            <marker date="1510122026674" expanded="true" signature="51846:51873" ph="..." />
+            <marker date="1510122026674" expanded="true" signature="52374:52391" ph="..." />
+            <marker date="1510122026674" expanded="true" signature="52406:52427" ph="..." />
+            <marker date="1510122026674" expanded="true" signature="52575:52602" ph="..." />
+            <marker date="1510122026674" expanded="true" signature="53098:53115" ph="..." />
+            <marker date="1510122026674" expanded="true" signature="53130:53151" ph="..." />
+            <marker date="1510122026674" expanded="true" signature="53299:53326" ph="..." />
+            <marker date="1510122026674" expanded="true" signature="53824:53841" ph="..." />
+            <marker date="1510122026674" expanded="true" signature="53856:53876" ph="..." />
+            <marker date="1510122026674" expanded="true" signature="54024:54051" ph="..." />
+          </folding>
+>>>>>>> mustafa
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="202" column="31" lean-forward="false" selection-start-line="202" selection-start-column="31" selection-end-line="202" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
